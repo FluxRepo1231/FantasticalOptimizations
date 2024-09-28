@@ -27,10 +27,10 @@ See this table for a comparison between the launchers:
 
 FOS includes some resource packs [for a better experience][url-rp], but they can also be downloaded separately.
 
-| Resource Pack             | CurseForge                  | Modrinth                        | Planet Minecraft                   |
-| ------------------------- | --------------------------- | ------------------------------- | ---------------------------------- |
-| **Chat Reporting Helper** | [CurseForge][url-rp-crh-cf] | [Modrinth][url-rp-crh-modrinth] | [Planet Minecraft][url-rp-crh-pmc] |
-| **Fast Better Grass**     | [CurseForge][url-rp-fbg-cf] | [Modrinth][url-rp-fbg-modrinth] | [Planet Minecraft][url-rp-fbg-pmc] |
+| Resource Pack             | CurseForge                  | Modrinth                      
+| ------------------------- | --------------------------- | ------------------------------- |
+| **Chat Reporting Helper** | [CurseForge][url-rp-crh-cf] | [Modrinth][url-rp-crh-modrinth] |
+| **Fast Better Grass**     | [CurseForge][url-rp-fbg-cf] | [Modrinth][url-rp-fbg-modrinth] |
 
 </details>
 
