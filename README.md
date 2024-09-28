@@ -41,6 +41,10 @@ FOS includes some resource packs [for a better experience][url-rp], but they can
 - Thanks to [Fabulously-Optimized][url-fo] For Inspiration On FOS
 - Thanks to [RobotKoer][url-robotkoer] For Creating Fabulously-Optimized
 
+Special Thanks 
+
+- Thanks to robotkoer and contributors for creating Fabulously Optimized
+
 <!-- Files -->
 [file-mods]: <INCLUDED-MODS.md>
 
