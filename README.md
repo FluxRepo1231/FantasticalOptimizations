@@ -25,7 +25,7 @@ See this table for a comparison between the launchers:
 
 <details><summary>Download Resource Packs separately</summary>
 
-FO includes some resource packs [for a better experience][url-rp], but they can also be downloaded separately.
+FOS includes some resource packs [for a better experience][url-rp], but they can also be downloaded separately.
 
 | Resource Pack             | CurseForge                  | Modrinth                        | Planet Minecraft                   |
 | ------------------------- | --------------------------- | ------------------------------- | ---------------------------------- |
