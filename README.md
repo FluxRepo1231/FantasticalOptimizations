@@ -4,7 +4,7 @@
 
 # Fantastical Optimizations
 
-[![Read the Wiki][img-wiki]][url-wiki]
+[![Read the Wiki][img-wiki]][url-https://fantastical-optimizations.gitbook.io/fos]
 
 [![Mod list][img-mods]][file-mods]
 [![Changed Options][img-options]][url-options]
