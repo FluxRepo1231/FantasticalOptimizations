@@ -31,7 +31,7 @@ FOS includes some resource packs [for a better experience][url-rp], but they can
 | ------------------------- | --------------------------- | ------------------------------- |
 | **Chat Reporting Helper** | [CurseForge][url-rp-crh-cf] | [Modrinth][url-rp-crh-modrinth] |
 | **Fast Better Grass**     | [CurseForge][url-rp-fbg-cf] | [Modrinth][url-rp-fbg-modrinth] |
-
+| **Smart Boost**           | [CurseForge][url-SmartBoost]
 </details>
 
 ## Credits
@@ -132,3 +132,4 @@ Special thanks to:
 [url-tutorial-vanilla]: <https://wiki.download.fo/install-instructions#minecraft-launcher-vanilla>
 [url-website]: <https://download.fo>
 [url-wiki]: <https://fantastical-optimizations.gitbook.io/fos>
+[url-SmartBoost]:<https://www.curseforge.com/minecraft/texture-packs/smart-boost>
