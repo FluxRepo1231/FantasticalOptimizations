@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://download.fo/icon.png" alt="FO logo" width="10%" height="10%">
+<img src="https://cdn.discordapp.com/attachments/894749835742294038/1289581248523669568/wZOBJNh.jpg?ex=66f957a0&is=66f80620&hm=f9b1df4c8e5eaaf7ccfb46d3245cf757a7039e4d507ad70f82e1c7780557b218&" alt="FO logo" width="10%" height="10%">
 
 # Fabulously Optimized
 
