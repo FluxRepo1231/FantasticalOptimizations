@@ -4,7 +4,7 @@
 
 # Fantastical Optimizations
 
-[![Read the Wiki][img-wiki]][url-https://fantastical-optimizations.gitbook.io/fos]
+[![Read the Wiki][img-wiki]][url-wiki]
 
 [![Mod list][img-mods]][file-mods]
 [![Changed Options][img-options]][url-options]
@@ -154,4 +154,4 @@ Special thanks to:
 [url-tutorial-prism]: <https://wiki.download.fo/install-instructions#prism-launcher>
 [url-tutorial-vanilla]: <https://wiki.download.fo/install-instructions#minecraft-launcher-vanilla>
 [url-website]: <https://download.fo>
-[url-wiki]: <https://download.fo/wiki>
+[url-wiki]: <https://fantastical-optimizations.gitbook.io/fos>
