@@ -43,7 +43,7 @@ FOS includes some resource packs [for a better experience][url-rp], but they can
 
 Special thanks to:
 
-- Thanks To [Kichura][url-ki],[osfanbuff63][url-os] & [TheBossMagnus][url-boss]
+- Thanks To [Kichura][url-ki] , [osfanbuff63][url-os] & [TheBossMagnus][url-boss]
 - Everyone who uses, tests and shares the modpack!
 
 <!-- Files -->
