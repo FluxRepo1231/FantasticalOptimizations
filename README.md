@@ -36,7 +36,7 @@ FOS includes some resource packs [for a better experience][url-rp], but they can
 
 ## Credits
 
-- Thanks to https://modrinth.com/modpack/fabulously-optimized For Inspiration On FOS
+- Thanks to [fabulously-optimized][url-fo] For Inspiration On FOS
 - Thanks to https://modrinth.com/user/robotkoer For Creating FO
 
 
@@ -122,3 +122,5 @@ Special thanks to:
 [url-wiki]: <https://fantastical-optimizations.gitbook.io/fos>
 [url-SmartBoost]:<https://www.curseforge.com/minecraft/texture-packs/smart-boost>
 [url-SmartBoost-Cf]:<https://modrinth.com/resourcepack/smart-boost/version/1.20-1.20.1>
+[url-fo]:<https://modrinth.com/modpack/fabulously-optimized>
+[url-robotkoer]:<https://modrinth.com/user/robotkoer>
