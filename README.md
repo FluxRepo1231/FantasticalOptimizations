@@ -36,12 +36,14 @@ FOS includes some resource packs [for a better experience][url-rp], but they can
 
 ## Credits
 
-- Thanks to [fabulously-optimized][url-fo] For Inspiration On FOS
-- Thanks to https://modrinth.com/user/robotkoer For Creating FO
+- Thanks to [Fabulously-Optimized][url-fo] For Inspiration On FOS
+- Thanks to [RobotKoer][url-robotkoer] For Creating Fabulously-Optimized
+  
 
 
 Special thanks to:
 
+- Thanks To [Kichura][url-ki],[osfanbuff63][url-os] & [TheBossMagnus][url-boss]
 - Everyone who uses, tests and shares the modpack!
 
 <!-- Files -->
@@ -124,3 +126,6 @@ Special thanks to:
 [url-SmartBoost-Cf]:<https://modrinth.com/resourcepack/smart-boost/version/1.20-1.20.1>
 [url-fo]:<https://modrinth.com/modpack/fabulously-optimized>
 [url-robotkoer]:<https://modrinth.com/user/robotkoer>
+[url-Ki]:<https://modrinth.com/user/Kichura>
+[url-os]:<https://modrinth.com/user/osfanbuff63>
+[url-boss]:<https://modrinth.com/user/TheBossMagnus>
