@@ -100,7 +100,7 @@ Special thanks to:
 [url-github-org]: <https://github.com/Fabulously-Optimized>
 [url-install]: <https://download.fo/install>
 [url-mastodon]: <https://download.fo/mastodon>
-[url-modrinth]: <https://download.fo/modrinth>
+[url-modrinth]: <https://modrinth.com/modpack/fos>
 [url-options]: <https://wiki.download.fo/readme/changed-options>
 [url-rate]: <https://download.fo/rate>
 [url-rp]: <https://wiki.download.fo/readme/changed-options#resource-packs>
