@@ -6,14 +6,12 @@
 
 [![Read the Wiki][img-wiki]][url-wiki]
 
-A A optimization Modpack Based On Fabulously Optimized.
+A optimization Modpack Based On Fabulously Optimized.
 
 </div>
 
 ## Download
 
-[![Installation Guide][img-install]][url-install]
-[![CurseForge][img-cf]][url-cf]
 [![Modrinth][img-modrinth]][url-modrinth]
 
 > By downloading Fabulously Optimized, you have acknowledged the [disclaimers][url-terms].
@@ -25,17 +23,10 @@ See this table for a comparison between the launchers:
 | Launcher                                      |               Tutorial               |    Install    |     Upgrade     |   Add mods    | Support us and mods |
 | --------------------------------------------- | :----------------------------------: | :-----------: | :-------------: | :-----------: | :-----------------: |
 | [CurseForge App][url-app-cf]                  |    [🔗&nbsp;Open][url-tutorial-cf]    |  ✅&nbsp;Easy  |   ✅&nbsp;Easy   |  ✅&nbsp;Easy  |     ✅&nbsp;Yes      |
-| [Modrinth App][url-app-modrinth]              | [🔗&nbsp;Open][url-tutorial-modrinth] |  ✅&nbsp;Easy  |   ✅&nbsp;Easy   |  ✅&nbsp;Easy  |     ✅&nbsp;Yes      |
-| [Prism Launcher][url-app-prism]               |  [🔗&nbsp;Open][url-tutorial-prism]   |  ✅&nbsp;Easy  |   ✅&nbsp;Easy   |  ✅&nbsp;Easy  |   ⏺️<sup>[2]</sup>   |
-| [MultiMC][url-app-multimc]                    | [🔗&nbsp;Open][url-tutorial-multimc]  |  ✅&nbsp;Easy  |  ❌&nbsp;Manual  | ❌&nbsp;Manual |   ⏺️<sup>[2]</sup>   |
-| [MultiMC (auto-update)][url-app-mmcu]           |   [🔗&nbsp;Open][url-tutorial-mmcu]   |  ✅&nbsp;Easy  | ⏺️<sup>[1]</sup> | ❌&nbsp;Manual |   ⏺️<sup>[2]</sup>   |
-| [Minecraft Launcher (vanilla)][url-app-vanilla] | [🔗&nbsp;Open][url-tutorial-vanilla]  | ❌&nbsp;Manual |  ❌&nbsp;Manual  | ❌&nbsp;Manual |   ⏺️<sup>[2]</sup>   |
-
 > [!NOTE]
 >
 > **[1]**: Updates to the modpack within the same Minecraft version are automatic. The modpack cannot be updated automatically across Minecraft versions.
 >
-> **[2]**: These launchers support the modpack and its mods by increasing their download count, but not with monetary benefits.
 
 <details><summary>Download Resource Packs separately</summary>
 
