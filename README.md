@@ -8,6 +8,8 @@
 
 A optimization Modpack Based On Fabulously Optimized.
 
+<a href="https://download.fo"><img alt="Built on Fabulously Optimized" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/fabulously-optimized_vector.svg"></a>
+
 </div>
 
 ## Download
