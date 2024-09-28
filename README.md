@@ -40,13 +40,6 @@ FOS includes some resource packs [for a better experience][url-rp], but they can
 
 - Thanks to [Fabulously-Optimized][url-fo] For Inspiration On FOS
 - Thanks to [RobotKoer][url-robotkoer] For Creating Fabulously-Optimized
-  
-
-
-Special thanks to:
-
-- Thanks To [Kichura][url-ki] , [osfanbuff63][url-os] & [TheBossMagnus][url-boss]
-- Everyone who uses, tests and shares the modpack!
 
 <!-- Files -->
 [file-mods]: <INCLUDED-MODS.md>
