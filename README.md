@@ -18,9 +18,6 @@ A optimization Modpack Based On Fabulously Optimized.
 
 See this table for a comparison between the launchers:
 
-| Launcher                                      |               Tutorial               |    Install    |     Upgrade     |   Add mods    | Support us and mods |
-| --------------------------------------------- | :----------------------------------: | :-----------: | :-------------: | :-----------: | :-----------------: |
-| [CurseForge App][url-app-cf]                  |    [🔗&nbsp;Open][url-tutorial-cf]    |  ✅&nbsp;Easy  |   ✅&nbsp;Easy   |  ✅&nbsp;Easy  |     ✅&nbsp;Yes      |
 > [!NOTE]
 >
 > **[1]**: Updates to the modpack within the same Minecraft version are automatic. The modpack cannot be updated automatically across Minecraft versions.
