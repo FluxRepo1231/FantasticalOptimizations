@@ -36,24 +36,12 @@ FOS includes some resource packs [for a better experience][url-rp], but they can
 
 ## Credits
 
-- [TheYTG123][url-credits-TheYTG123] on CurseForge who helped with Jumploader to release the 1.16.3 version a little faster
-- [triphora][url-credits-triphora] who suggested and helped with the Modrinth format, and formerly moderated the FO Discord server
-- [RozeFound][url-credits-RozeFound] for helping with Python scripts and providing lots of constructive feedback for the pack
-- [TheMadHau5][url-credits-TheMadHau5], [redbrain][url-credits-redbrain], [Kichura][url-credits-Kichura] for the [fancy mod table][file-mods]
-- [RaptaG][url-credits-RaptaG] and [Ultrasonic1209][url-credits-Ultrasonic1209] for the [Packwiz mod ignoring tutorials][url-tutorial-mmcu-ignoremods]
-- [IMB11][url-credits-IMB11] for the fancy website
-- [Miroma][url-credits-Miroma] for the current version of this readme
-- Other people creating pull requests for [the main project][url-github-main-graph], [wiki][url-github-wiki-graph] and [other organization projects][url-github-org]
-- People who have created videos about the modpack
-- Everyone who has suggested ideas and reported bugs!
+- Thanks to https://modrinth.com/modpack/fabulously-optimized For Inspiration On FOS
+- Thanks to https://modrinth.com/user/robotkoer For Creating FO
+
 
 Special thanks to:
 
-- [jellysquid3][url-credits-jellysquid3] for creating [Sodium][url-credits-jellysquid3-sodium], [Lithium][url-credits-jellysquid3-lithium], [Phosphor][url-credits-jellysquid3-phosphor] which were the initial inspiration for creating the modpack
-- [LambdAurora][url-credits-LambdAurora] for creating [the list of OptiFine alternatives][url-credits-LambdAurora-alternatives] which the pack does get some mod ideas from, and [LambDynamicLights][url-credits-LambdAurora-LambDynamicLights]
-- [comp500][url-credits-comp500] for creating [Jumploader][url-credits-comp500-Jumploader] - a mod that made the modpack possible in Minecraft 1.16.x, [Indium][url-credits-comp500-Indium] - mod that provided the rendering API for Sodium for increased mod compatibility and [packwiz][url-credits-comp500-packwiz] - a tool that makes the MultiMC auto-update happen
-- Mod devs who have joined the Discord and are discussing the modpack's development there
-- All developers who made the mods that are, have been and will be in the modpack
 - Everyone who uses, tests and shares the modpack!
 
 <!-- Files -->
