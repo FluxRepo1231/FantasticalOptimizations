@@ -28,10 +28,7 @@ Optimized for incredible speed and minimal resource usage, allowing you to enjoy
 ### 💡 Quality of Life Features
 - **Auto Mod Updates**: Always stay up-to-date with the latest mod versions.
 - **Customizable Settings**: Fine-tune your experience with personalized settings.
-- **HUD Enhancements**: Improved HUDs to make tracking game elements easier and more intuitive.
-
-### 🌐 Cross-Platform Compatibility
-Works on multiple launchers including CurseForge, MultiMC, and PolyMC, ensuring you can play how you want.
+- **HUD Enhancements**: Improved HUDs to make tracking game elements easier and more intuitive..
 
 ### 🔄 Frequent Updates
 Regularly updated to stay in sync with the latest Minecraft features, bug fixes, and optimizations.
