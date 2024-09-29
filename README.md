@@ -15,16 +15,15 @@ Welcome to **Fantastical Optimizations**! This modpack is designed to enhance yo
 
 ## Installation
 
-To get started with **Fantastical Optimizations**, follow these simple steps:
+To get started with **Fantastical Optimizations**, visit the Modrinth page:
 
-1. Install the [CurseForge Launcher](https://www.curseforge.com).
-2. Search for **Fantastical Optimizations** in the modpack section.
-3. Click "Install" and launch the pack to begin your adventure!
+[![Modrinth](https://img.shields.io/badge/Modrinth-Visit%20Modrinth-brightgreen)](https://modrinth.com/modpack/fos)
 
-## Links
+## Documentation
 
-[![Modrinth](https://img.shields.io/badge/Modrinth-Visit%20Modrinth-brightgreen)](https://modrinth.com)
-[![Wiki](https://img.shields.io/badge/Wiki-Read%20the%20Wiki-blue)](https://modrinth.com/modpack/fantastical-optimizations/wiki)
+For detailed information, guides, and support, check out the official wiki:
+
+[![Wiki](https://img.shields.io/badge/Wiki-Read%20the%20Wiki-blue)](https://fantastical-optimizations.gitbook.io/fos)
 
 ## Contributing
 
