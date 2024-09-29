@@ -19,8 +19,6 @@
 - [🚀 Why Choose Fantastical Optimizations?](#-why-choose-fantastical-optimizations)
 - [📦 Installation & Download](#-installation--download)
 - [📥 Additional Resource Packs](#-additional-resource-packs)
-- [🌠 Custom Mods & Plugins](#-custom-mods--plugins)
-- [🙋 Frequently Asked Questions](#-frequently-asked-questions)
 - [🙏 Credits](#-credits)
 
 ---
@@ -75,4 +73,18 @@ Fantastical Optimizations comes bundled with several optional resource packs to 
   | **Resource Pack**            | **CurseForge**                                                   | **Modrinth**                                                        |
   | ---------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------- |
   | **Chat Reporting Helper**    | [CurseForge](https://curseforge.com/minecraft/texture-packs/chat-reporting-helper) | [Modrinth](https://modrinth.com/resourcepack/chat-reporting-helper) |
-  | **Fast Better Grass**        | [CurseForge](https://curseforge.com/minecraft/texture-packs/fast-better-grass)       | [Modrinth](https://modrinth.com/re
+  | **Fast Better Grass**        | [CurseForge](https://curseforge.com/minecraft/texture-packs/fast-better-grass)       | [Modrinth](https://modrinth.com/resourcepack/fast-better-grass)      |
+  | **Smart Boost**              | [CurseForge](https://www.curseforge.com/minecraft/texture-packs/smart-boost)        | [Modrinth](https://modrinth.com/resourcepack/smart-boost/version/1.20-1.20.1) |
+</details>
+
+---
+
+## 🙏 **Credits**
+
+Special thanks to **[Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized)** for the inspiration behind this project.  
+Gratitude to **[RobotKoer](https://modrinth.com/user/robotkoer)** and other contributors who made Fabulously Optimized.
+
+<div align="center">
+ <img src="https://cdn.discordapp.com/attachments/894749835742294038/1289581248523669568/wZOBJNh.jpg?ex=66f957a0&is=66f80620&hm=f9b1df4c8e5eaaf7ccfb46d3245cf757a7039e4d507ad70f82e1c7780557b218&" alt="FO logo" width="10%" height="10%">
+  <p><em>Enhance your Minecraft experience with Fantastical Optimizations!</em></p>
+</div>
