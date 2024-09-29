@@ -74,8 +74,8 @@ Fantastical Optimizations includes custom mods designed for a smoother experienc
 - **Improved Redstone Mechanics**: Enhances redstone performance.
 
 ---
-
 ## 🙏 **Credits**
+
 
 Special thanks to **[Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized)** for the inspiration and .
 Gratitude to **[RobotKoer](https://modrinth.com/user/robotkoer)** and other contributors who made Fabulously Optimized.
