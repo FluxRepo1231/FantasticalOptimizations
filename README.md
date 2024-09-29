@@ -52,7 +52,7 @@ Fantastical Optimizations includes several optional resource packs that enhance 
 ## 🙏 Acknowledgments
 
 - Huge thanks to [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized) for providing inspiration and a base for this project.
-- Special thanks to [RobotKoer](https://modrinth.com/user/robotkoer) and all community contributors who have made this modpack possible.
+- Special thanks to [RobotKoer](https://modrinth.com/user/robotkoer) and contributors for creating Fabulously Optimized.
 
 ---
 
