@@ -79,14 +79,6 @@ Fantastical Optimizations includes custom mods designed for a smoother experienc
 
 Special thanks to **[Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized)** for the inspiration and .
 Gratitude to **[RobotKoer](https://modrinth.com/user/robotkoer)** and other contributors who made Fabulously Optimized.
-
-Welcome to the Discord server of Fabulously Optimized!
-
-<:curseforge:1078236003019526174> [**CurseForge**](https://download.fo/curseforge) | <:modrinth:923649117085917275> [**Modrinth**](https://download.fo/modrinth) | <:github:892819727313940491> [**GitHub**](https://download.fo/github) (other downloads) | 🐘 [**Mastodon**](https://download.fo/mastodon)
-
-ℹ️ [**Wiki**](https://wiki.download.fo/) |❔ [**How to install**](https://download.fo/install) | 🆕 [**How to update**](https://download.fo/update) | 📜 [**Included mods**](https://download.fo/mods) | ❤️ [**Support the pack**](https://download.fo/thanks)
-
-<:discord:892820271105450014> **This server:** https://discord.gg/fabulously-optimized-859124104644788234
 ---
 
 <div align="center">
