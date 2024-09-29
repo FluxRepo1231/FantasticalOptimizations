@@ -1,13 +1,14 @@
+
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/894749835742294038/1289581248523669568/wZOBJNh.jpg?ex=66f957a0&is=66f80620&hm=f9b1df4c8e5eaaf7ccfb46d3245cf757a7039e4d507ad70f82e1c7780557b218&" alt="FO logo" width="20%" height="20%">
-  
-  # 🌟 Fantastical Optimizations 🌟
-  
+
+  # 🌟 **Fantastical Optimizations** 🌟
+
   [![Read the Wiki](https://img.shields.io/badge/Wiki-Read%20the%20Wiki-blue?style=for-the-badge)](https://fantastical-optimizations.gitbook.io/fos)
   [![Modrinth](https://img.shields.io/badge/Modrinth-Download%20on%20Modrinth-green?style=for-the-badge)](https://modrinth.com/modpack/fos)
   
-  **A Minecraft Optimization Modpack Based on Fabulously Optimized**  
-  
+  **A Minecraft Optimization Modpack Based on Fabulously Optimized**
+
   <a href="https://download.fo">
     <img alt="Built on Fabulously Optimized" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/fabulously-optimized_vector.svg">
   </a>
@@ -15,61 +16,69 @@
 
 ---
 
-## 🚀 Why Choose Fantastical Optimizations?
+## 🚀 **Why Choose Fantastical Optimizations?**
 
-### 🔥 Performance at Its Peak
-Optimized for incredible speed and minimal resource usage, allowing you to enjoy Minecraft even on low-spec systems without compromising the experience.
+### 🔥 **Performance at Its Peak**
+- **Optimized Speed**: Incredible speed and minimal resource usage.
+- **Seamless Gameplay**: Designed for low-spec systems without compromising quality.
 
-### 🎮 Gameplay Tweaks
-- **Smooth Animations:** Enhance visual smoothness with high-performance tweaks.
-- **Instant Load Times:** Reduced lag and faster load times for a seamless play.
-- **Dynamic FPS Management:** Automatically adjust frame rates based on system load.
+### 🎮 **Gameplay Tweaks**
+- **Smooth Animations**: High-performance tweaks for smooth visuals.
+- **Instant Load Times**: Reduced lag and faster load times.
+- **Dynamic FPS Management**: Auto-adjusts frame rates based on system load.
 
-### 💡 Quality of Life Features
-- **Auto Mod Updates**: Always stay up-to-date with the latest mod versions.
-- **Customizable Settings**: Fine-tune your experience with personalized settings.
-- **HUD Enhancements**: Improved HUDs to make tracking game elements easier and more intuitive..
+### 💡 **Quality of Life Features**
+- **Auto Mod Updates**: Always stay up-to-date with the latest versions.
+- **Customizable Settings**: Fine-tune your experience.
+- **HUD Enhancements**: Intuitive HUDs for easier tracking.
 
-### 🔄 Frequent Updates
-Regularly updated to stay in sync with the latest Minecraft features, bug fixes, and optimizations.
+### 🔄 **Frequent Updates**
+- Regularly synced with the latest Minecraft features, bug fixes, and optimizations.
 
 ---
 
-## 📦 Installation & Download
+## 📦 **Installation & Download**
+
+<div align="center">
 
 [![Download on Modrinth](https://img.shields.io/badge/Modrinth-Download%20on%20Modrinth-green?style=for-the-badge)](https://modrinth.com/modpack/fos)
 
+</div>
+
 By downloading **Fantastical Optimizations**, you agree to our [disclaimers](https://fantastical-optimizations.gitbook.io/fos/disclaimers).
 
-### 📥 Additional Resource Packs
-Fantastical Optimizations includes several optional resource packs that you can install to enhance your experience. 
+---
+
+## 📥 **Additional Resource Packs**
+
+Fantastical Optimizations includes several optional resource packs to enhance your experience.
 
 <details>
   <summary><strong>Click to View & Download Resource Packs</strong></summary>
   
-  | Resource Pack             | CurseForge                   | Modrinth                      |
-  | ------------------------- | ---------------------------- | ----------------------------- |
-  | **Chat Reporting Helper**  | [CurseForge](https://curseforge.com/minecraft/texture-packs/chat-reporting-helper) | [Modrinth](https://modrinth.com/resourcepack/chat-reporting-helper) |
-  | **Fast Better Grass**      | [CurseForge](https://curseforge.com/minecraft/texture-packs/fast-better-grass) | [Modrinth](https://modrinth.com/resourcepack/fast-better-grass) |
-  | **Smart Boost**            | [CurseForge](https://www.curseforge.com/minecraft/texture-packs/smart-boost) | [Modrinth](https://modrinth.com/resourcepack/smart-boost/version/1.20-1.20.1) |
-
+  | **Resource Pack**            | **CurseForge**                                                   | **Modrinth**                                                        |
+  | ---------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------- |
+  | **Chat Reporting Helper**    | [CurseForge](https://curseforge.com/minecraft/texture-packs/chat-reporting-helper) | [Modrinth](https://modrinth.com/resourcepack/chat-reporting-helper) |
+  | **Fast Better Grass**        | [CurseForge](https://curseforge.com/minecraft/texture-packs/fast-better-grass)       | [Modrinth](https://modrinth.com/resourcepack/fast-better-grass)      |
+  | **Smart Boost**              | [CurseForge](https://www.curseforge.com/minecraft/texture-packs/smart-boost)        | [Modrinth](https://modrinth.com/resourcepack/smart-boost/version/1.20-1.20.1) |
 </details>
 
 ---
 
-## 🌠 Custom Mods & Plugins
+## 🌠 **Custom Mods & Plugins**
 
-Fantastical Optimizations comes with custom mods designed for an even smoother gameplay experience:
-- **FPS Boost Mod:** Manages game resources more efficiently for high FPS even on lower-end machines.
-- **Memory Usage Optimizer:** Optimizes the game’s memory usage, reducing the chance of crashes or slowdowns during intensive play.
-- **Improved Redstone Mechanics:** Enhances redstone performance to allow larger and more complex builds without slowing down your game.
+Fantastical Optimizations includes custom mods designed for a smoother experience:
+
+- **FPS Boost Mod**: Efficiently manages resources for high FPS.
+- **Memory Usage Optimizer**: Reduces crashes and slowdowns.
+- **Improved Redstone Mechanics**: Enhances redstone performance.
 
 ---
 
-## 🙏 Credits
+## 🙏 **Credits**
 
-- Special thanks to [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized) for inspiration and a base for this project.
-- Gratitude to [RobotKoer](https://modrinth.com/user/robotkoer) and other community contributors who have helped bring **Fantastical Optimizations** to life.
+Special thanks to **[Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized)** for the inspiration and a foundation for this project.
+Gratitude to **[RobotKoer](https://modrinth.com/user/robotkoer)** and other contributors who helped bring **Fantastical Optimizations** to life.
 
 ---
 
