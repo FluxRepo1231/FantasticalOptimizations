@@ -54,20 +54,6 @@ Fantastical Optimizations includes a variety of resource packs to improve your e
 
 ---
 
-## 🛠 Contributing
-
-We welcome community contributions! To contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a Pull Request.
-
-For more details on how to contribute, visit our [Contribution Guide](https://fantastical-optimizations.gitbook.io/fos/contributing).
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -75,6 +61,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/894749835742294038/1289581248523669568/wZOBJNh.jpg" alt="FO Logo" width="100">
+  <img src="https://cdn.discordapp.com/attachments/894749835742294038/1289581248523669568/wZOBJNh.jpg?ex=66f957a0&is=66f80620&hm=f9b1df4c8e5eaaf7ccfb46d3245cf757a7039e4d507ad70f82e1c7780557b218&" alt="FO logo" width="10%" height="10%">
   <p><em>Enhance your Minecraft experience with Fantastical Optimizations!</em></p>
 </div>
