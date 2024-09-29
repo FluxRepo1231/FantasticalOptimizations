@@ -2,6 +2,7 @@
   <img src="https://cdn.discordapp.com/attachments/894749835742294038/1289581248523669568/wZOBJNh.jpg?ex=66f957a0&is=66f80620&hm=f9b1df4c8e5eaaf7ccfb46d3245cf757a7039e4d507ad70f82e1c7780557b218&" alt="FO logo" width="20%" height="20%">
 
   # 🌟 **Fantastical Optimizations** 🌟
+  <iframe src="https://discord.com/widget?id=1289908574730063986&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
   [![Read the Wiki](https://img.shields.io/badge/Wiki-Read%20the%20Wiki-blue?style=for-the-badge)](https://fantastical-optimizations.gitbook.io/fos)
   [![Modrinth](https://img.shields.io/badge/Modrinth-Download%20on%20Modrinth-green?style=for-the-badge)](https://modrinth.com/modpack/fos)
