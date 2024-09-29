@@ -1,33 +1,62 @@
 <div align="center">
+  <img src="https://cdn.discordapp.com/attachments/894749835742294038/1289581248523669568/wZOBJNh.jpg?ex=66f957a0&is=66f80620&hm=f9b1df4c8e5eaaf7ccfb46d3245cf757a7039e4d507ad70f82e1c7780557b218&" alt="FO Logo" width="200">
+  
+  # Fantastical Optimizations
+  
+  [![Read the Wiki](https://img.shields.io/badge/Wiki-Read%20the%20Wiki-blue)](https://fantastical-optimizations.gitbook.io/fos) 
+  [![Modrinth](https://img.shields.io/badge/Modrinth-Download%20on%20Modrinth-green)](https://modrinth.com/modpack/fos)
+  
+  **A Minecraft Optimization Modpack Based on Fabulously Optimized.**
 
-# Fantastical Optimizations
+  <a href="https://download.fo">
+    <img alt="Built on Fabulously Optimized" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/fabulously-optimized_vector.svg">
+  </a>
+</div>
 
-<img src="https://cdn.discordapp.com/attachments/894749835742294038/1289581248523669568/wZOBJNh.jpg?ex=66f957a0&is=66f80620&hm=f9b1df4c8e5eaaf7ccfb46d3245cf757a7039e4d507ad70f82e1c7780557b218&" alt="FO logo" width="20%" height="20%">
+---
 
-Welcome to **Fantastical Optimizations**! This modpack is designed to enhance your Minecraft experience with a variety of optimizations, gameplay tweaks, and exciting new features. Dive into a world where performance meets creativity!
+## 🌟 Features
 
-## Features
+- ⚡ **Performance Boosts**: Enhanced game performance without sacrificing visuals.
+- 🎮 **Quality of Life Improvements**: Intuitive features to make your gameplay smoother.
+- 🌍 **Cross-Platform Compatibility**: Works with a variety of launchers and platforms.
+- 🛠 **Regular Updates**: Frequent patches and improvements to stay current with Minecraft versions.
 
-- **Performance Boosts**: Enhanced performance and stability for smoother gameplay.
-- **Gameplay Tweaks**: Unique modifications that enrich your Minecraft experience.
-- **Quality of Life Improvements**: User-friendly enhancements for a more enjoyable gameplay experience.
-- **Diverse Mods**: A carefully curated selection of mods that work seamlessly together.
+---
 
-## Installation
+## 📦 Download
 
-To get started with **Fantastical Optimizations**, visit the Modrinth page:
+[![Download on Modrinth](https://img.shields.io/badge/Modrinth-Download%20on%20Modrinth-green)](https://modrinth.com/modpack/fos)
 
-[![Modrinth](https://img.shields.io/badge/Modrinth-Visit%20Modrinth-brightgreen)](https://modrinth.com/modpack/fos)
+> By downloading **Fantastical Optimizations**, you acknowledge the [disclaimers](https://fantastical-optimizations.gitbook.io/fos/disclaimers).
 
-## Documentation
+### 📥 Additional Resources
+Fantastical Optimizations includes a variety of resource packs to improve your experience. You can download them separately from the links below:
 
-For detailed information, guides, and support, check out the official wiki:
+<details>
+  <summary><strong>Download Resource Packs</strong></summary>
+  
+  | Resource Pack             | CurseForge                   | Modrinth                      |
+  | ------------------------- | ---------------------------- | ----------------------------- |
+  | **Chat Reporting Helper**  | [CurseForge](https://curseforge.com/minecraft/texture-packs/chat-reporting-helper) | [Modrinth](https://modrinth.com/resourcepack/chat-reporting-helper) |
+  | **Fast Better Grass**      | [CurseForge](https://curseforge.com/minecraft/texture-packs/fast-better-grass) | [Modrinth](https://modrinth.com/resourcepack/fast-better-grass) |
+  | **Smart Boost**            | [CurseForge](https://www.curseforge.com/minecraft/texture-packs/smart-boost) | [Modrinth](https://modrinth.com/resourcepack/smart-boost/version/1.20-1.20.1) |
 
-[![Wiki](https://img.shields.io/badge/Wiki-Read%20the%20Wiki-blue)](https://fantastical-optimizations.gitbook.io/fos)
+</details>
 
-## Contributing
+---
 
-We welcome contributions! If you'd like to contribute to **Fantastical Optimizations**, please follow these steps:
+## 🙏 Credits
+
+- Thanks to [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized) for the inspiration.
+- Special thanks to [RobotKoer](https://modrinth.com/user/robotkoer) and the community contributors who have made Fabulously Optimized possible.
+- Huge appreciation to everyone who has contributed to **Fantastical Optimizations**.
+
+---
+
+## 🛠 Contributing
+
+We welcome community contributions! To contribute:
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-branch`).
@@ -35,15 +64,17 @@ We welcome contributions! If you'd like to contribute to **Fantastical Optimizat
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Thanks to the mod developers for their incredible work!
-- Special thanks to the community for your support and feedback.
+For more details on how to contribute, visit our [Contribution Guide](https://fantastical-optimizations.gitbook.io/fos/contributing).
 
 ---
 
-Join the **Fantastical Optimizations** community and enjoy a Minecraft experience like no other!
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/894749835742294038/1289581248523669568/wZOBJNh.jpg" alt="FO Logo" width="100">
+  <p><em>Enhance your Minecraft experience with Fantastical Optimizations!</em></p>
+</div>
