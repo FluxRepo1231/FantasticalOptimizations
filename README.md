@@ -1,6 +1,6 @@
 # Fantastical Optimizations
 
-![Modpack Logo](path/to/logo.png)
+![Modpack Logo](path/to/logo.jpg)
 
 Welcome to **Fantastical Optimizations**! This modpack is designed to enhance your Minecraft experience with a variety of optimizations, gameplay tweaks, and exciting new features. Dive into a world where performance meets creativity!
 
