@@ -84,6 +84,10 @@ Fantastical Optimizations comes bundled with several optional resource packs to 
 Special thanks to **[Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized)** for the inspiration behind this project.  
 Gratitude to **[RobotKoer](https://modrinth.com/user/robotkoer)** and other contributors who made Fabulously Optimized.
 
+
+
+
+
 <div align="center">
  <img src="https://cdn.discordapp.com/attachments/894749835742294038/1289581248523669568/wZOBJNh.jpg?ex=66f957a0&is=66f80620&hm=f9b1df4c8e5eaaf7ccfb46d3245cf757a7039e4d507ad70f82e1c7780557b218&" alt="FO logo" width="10%" height="10%">
   <p><em>Enhance your Minecraft experience with Fantastical Optimizations!</em></p>
