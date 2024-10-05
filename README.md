@@ -48,19 +48,39 @@ Fantastical Optimizations is designed to elevate your Minecraft experience by pr
 
 ## 📦 **Installation & Download**
 
-<div align="center">
+# How to Install the FOS Modpack (Fantastical Optimizations)
 
-[![Download on Modrinth](https://img.shields.io/badge/Modrinth-Download%20on%20Modrinth-green?style=for-the-badge)](https://modrinth.com/modpack/fos)
+FOS is an optimized Minecraft modpack designed for better performance without compromising gameplay. Follow the steps below to install it.
 
-</div>
+---
 
-### Installation Guide
-1. **Download the Modpack** from Modrinth.
-2. **Install using your preferred Mod Loader** (e.g., Fabric or Forge).
-3. Configure the settings as per your requirements.
+## For Modrinth Launcher:
 
-By downloading **Fantastical Optimizations**, you agree to our [disclaimers](https://fantastical-optimizations.gitbook.io/fos/disclaimers).
+1. **Install Modrinth Launcher**  
+   Download and install the Modrinth Launcher from their [official website](https://modrinth.com).
 
+2. **Install FOS Modpack**  
+   Visit the [FOS Modpack page on Modrinth](https://modrinth.com/modpack/fos) and click "Install with Modrinth." It will automatically add the modpack to your launcher.
+
+3. **Launch Minecraft**  
+   Open the launcher, select the FOS modpack, and hit "Play."
+
+---
+
+## For Other Launchers (e.g., MultiMC, Prism Launcher):
+
+1. **Download the Modpack**  
+   Go to the [FOS GitHub Repository](https://github.com/FluxRepo1231/FantasticalOptimizations) and download the latest ZIP release.
+
+2. **Import into Your Launcher**  
+   Open your launcher, create a new instance, and import the downloaded ZIP file.
+
+3. **Launch Minecraft**  
+   Select the FOS modpack instance and click "Play."
+
+---
+
+Enjoy optimized and smooth Minecraft gameplay with FOS!
 ---
 
 ## 📥 **Additional Resource Packs**
