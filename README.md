@@ -3,7 +3,7 @@
 
   # 🌟 **Fantastical Optimizations** 🌟
 
-  [![Read the Wiki](https://img.shields.io/badge/Wiki-Read%20the%20Wiki-blue?style=for-the-badge)](https://fantastical-optimizations.gitbook.io/fos)
+  [![Download on Wiki](https://img.shields.io/badge/Download-Wiki-red?logo=wiki&style=for-the-badge)](https://your-wiki-link)
   [![Download on Modrinth](https://img.shields.io/badge/Download-Modrinth-red?logo=modrinth&style=for-the-badge)](https://modrinth.com/modpack/fos)
   [![Download on CurseForge](https://img.shields.io/badge/Download-CurseForge-red?logo=curseforge&style=for-the-badge)](https://www.curseforge.com/minecraft/modpacks/fantastical-optimizations)
   
