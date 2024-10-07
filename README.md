@@ -72,7 +72,7 @@ FOS is an optimized Minecraft modpack designed for better performance without co
 ## For Other Launchers (e.g., MultiMC, Prism Launcher):
 
 1. **Download the Modpack**  
-   Go to the [FOS GitHub Repository](https://github.com/FluxRepo1231/FantasticalOptimizations) and download the latest ZIP release.
+   Go to the [FOS GitHub Repository](https://github.com/FluxRepo1231/FantasticalOptimizations/releases) and download the latest ZIP release.
 
 2. **Import into Your Launcher**  
    Open your launcher, create a new instance, and import the downloaded ZIP file.
