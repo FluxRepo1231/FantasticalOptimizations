@@ -4,7 +4,6 @@
   # 🌟 **Fantastical Optimizations** 🌟
 
   [![Visit Wiki](https://img.shields.io/badge/Visit-Wiki-blue?logo=wiki&logoColor=white&style=for-the-badge)](https://fantastical-optimizations.gitbook.io/fos)
-optimizations.gitbook.io/fos)
   [![Download on Modrinth](https://img.shields.io/badge/Download-Modrinth-brightgreen?logo=modrinth&style=for-the-badge)](https://modrinth.com/modpack/fos)
   [![Download on CurseForge](https://img.shields.io/badge/Download-CurseForge-red?logo=curseforge&style=for-the-badge)](https://www.curseforge.com/minecraft/modpacks/fantastical-optimizations)
 [![Join Discord](https://img.shields.io/badge/Discord-Join%20Our%20Server-7289DA?style=for-the-badge)](https://discord.gg/9SeNcEru3R)
