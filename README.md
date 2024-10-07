@@ -4,7 +4,7 @@
   # 🌟 **Fantastical Optimizations** 🌟
 
   [![Download on Wiki](https://img.shields.io/badge/Download-Wiki-blue?logo=wiki&style=for-the-badge)](https://fantastical-optimizations.gitbook.io/fos)
-  [![Download on Modrinth](https://img.shields.io/badge/Download-Modrinth-red?logo=modrinth&style=for-the-badge)](https://modrinth.com/modpack/fos)
+  [![Download on Modrinth](https://img.shields.io/badge/Download-Modrinth-brightgreen?logo=modrinth&style=for-the-badge)](https://modrinth.com/modpack/fos)
   [![Download on CurseForge](https://img.shields.io/badge/Download-CurseForge-red?logo=curseforge&style=for-the-badge)](https://www.curseforge.com/minecraft/modpacks/fantastical-optimizations)
   
   **A Minecraft Optimization Modpack Inspired by Fabulously Optimized**
