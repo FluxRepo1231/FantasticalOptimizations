@@ -5,7 +5,7 @@
 
   [![Read the Wiki](https://img.shields.io/badge/Wiki-Read%20the%20Wiki-blue?style=for-the-badge)](https://fantastical-optimizations.gitbook.io/fos)
   [![Modrinth](https://img.shields.io/badge/Modrinth-Download%20on%20Modrinth-green?style=for-the-badge)](https://modrinth.com/modpack/fos)
-  [![Coming Soon on CurseForge](https://img.shields.io/badge/Coming%20Soon-CurseForge-red?style=for-the-badge)](https://www.curseforge.com)
+  [![Download on CurseForge](https://img.shields.io/badge/Download-CurseForge-red?logo=curseforge&style=for-the-badge)](https://www.curseforge.com/minecraft/modpacks/fantastical-optimizations)
   
   **A Minecraft Optimization Modpack Inspired by Fabulously Optimized**
   
